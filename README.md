@@ -19,5 +19,6 @@
 <img width="1356" alt="스크린샷 2023-12-12 오후 11 40 37" src="https://github.com/jaewanss/goormboard/assets/152056488/ac093075-111a-44c5-a219-1f2305f28784">
 
 수정
-<img width="1356" alt="스크린샷 2023-12-12 오후 11 41 32" src="https://github.com/jaewanss/goormboard/assets/152056488/6bc2ea0f-5bf9-4283-a9cf-2d8476308a76">
 <img width="1356" alt="스크린샷 2023-12-12 오후 11 41 26" src="https://github.com/jaewanss/goormboard/assets/152056488/bc323d3c-7ed6-4fca-a613-5696a5aadb1c">
+<img width="1356" alt="스크린샷 2023-12-12 오후 11 41 32" src="https://github.com/jaewanss/goormboard/assets/152056488/6bc2ea0f-5bf9-4283-a9cf-2d8476308a76">
+
